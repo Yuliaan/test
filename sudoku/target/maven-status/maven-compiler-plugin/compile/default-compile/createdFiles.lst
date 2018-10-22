@@ -1,0 +1,8 @@
+com\demo\gavant\sudoku\FileAccessor.class
+com\demo\gavant\sudoku\Box.class
+com\demo\gavant\sudoku\Row.class
+com\demo\gavant\sudoku\Section.class
+com\demo\gavant\sudoku\Column.class
+com\demo\gavant\sudoku\Cell.class
+com\demo\gavant\sudoku\Board.class
+com\demo\gavant\sudoku\Game.class
